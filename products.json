@@ -1,0 +1,67 @@
+[
+    {
+        "name": "apple",
+        "price": 1.00,
+        "featured": true
+    },
+    {
+        "name": "apple",
+        "price": 2.00,
+        "featured": true
+    },
+    {
+        "name": "apple",
+        "price": 4.00,
+        "featured": true
+    },
+    {
+        "name": "apple",
+        "price": 5.00,
+        "featured": true
+    },
+    {
+        "name": "banana",
+        "price": 0.50,
+        "featured": false
+    },
+    {
+        "name": "orange",
+        "price": 0.75,
+        "featured": true
+    },
+    {
+        "name": "grape",
+        "price": 1.25,
+        "featured": false
+    },
+    {
+        "name": "kiwi",
+        "price": 1.50,
+        "featured": true
+    },
+    {
+        "name": "mango",
+        "price": 2.00,
+        "featured": false
+    },
+    {
+        "name": "pear",
+        "price": 1.25,
+        "featured": true
+    },
+    {
+        "name": "peach",
+        "price": 1.50,
+        "featured": false
+    },
+    {
+        "name": "plum",
+        "price": 1.00,
+        "featured": true
+    },
+    {
+        "name": "strawberry",
+        "price": 2.50,
+        "featured": false
+    }
+]
